@@ -107,7 +107,7 @@ sudo python3 cdp_dos_attack.py ens33
 ### Interfaces
 | Dispositivo | Interfaz | VLAN | Dirección IP | Propósito |
 |-------------|----------|------|--------------|-----------|
-| Switch | Ethernet0/1 | VLAN 1 | N/A | Puerto atacante |
+| Switch | Ethernet0/1 | VLAN 1 | 172.24.15.2/24 | Puerto atacante |
 | Atacante | ens33 | VLAN 1 | 172.24.15.100/24 | Inyección CDP |
 
 ## 6. Documentación de la Contra-medida / Mitigación
