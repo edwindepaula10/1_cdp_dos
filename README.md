@@ -1,4 +1,3 @@
-```markdown
 # Laboratorio 1: CDP DoS Attack (Cisco Discovery Protocol)
 
 ## 1. Información General
