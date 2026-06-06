@@ -6,7 +6,7 @@
 - **Materia:** Seguridad en Redes - Ataques de Capa 2
 - **Estudiante:** Edwin De Paula
 - **Matrícula:** 2024-2415
-- **Enlace del Video:** [PENDIENTE - Insertar URL de YouTube]
+- **Enlace del Video:** https://youtu.be/oebhbNwszG0
 
 ## 2. Objetivos del Laboratorio
 
