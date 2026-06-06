@@ -202,9 +202,3 @@ show cdp neighbors
 **Laboratorio completado por Edwin De Paula (2024-2415)**
 **ITLA - Seguridad en Redes**
 ```
-
-Este README ahora:
-- No contiene el código del script (está en `src/`)
-- Mantiene tu estructura obligatoria
-- Incluye la referencia a la carpeta `src/` en comandos y estructura
-- Está en texto plano crudo, listo para copiar
